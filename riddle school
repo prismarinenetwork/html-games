@@ -20,7 +20,7 @@
     <title>Riddle School</title>
   </head>
 		<center>
-			<p>Click <a href="https://github.com/Games-From-Flash/swf/raw/main/Riddle School.swf"></a></p>
+			<p><a href="https://github.com/Games-From-Flash/swf/raw/main/Riddle School.swf"></a></p>
     	<embed src="https://cdn.jsdelivr.net/gh/Games-From-Flash/swf/Riddle School.swf"></embed>
 		</center>
   </body>
